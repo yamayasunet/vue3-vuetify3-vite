@@ -12,10 +12,10 @@
 
       <v-col class="mb-4">
         <h1 class="display-2 font-weight-bold mb-3">
-          <div>Welcome to the Vuetify 3 Alpha</div>
+          <div>Vue3 + Vuetify 3 + Vite へようこそ</div>
         </h1>
 
-          <small>Vite Preview</small>
+        <v-icon dark x-large>mdi-web</v-icon>← ウェブアイコン(MDI)
 
         <p class="subheading font-weight-regular">
           For help and collaboration with other Vuetify developers,
